@@ -170,3 +170,11 @@ chapter 3 -> data
 chapter 4 -> approach (regex)
 
 chapter 5 
+
+
+111 instances of knob + 26 instances of heaped tsp
+2 ingredients
+leaking states / instructions
+19 instances of 2 x something grams
+
+95% not in dictionary/result from ground truth
